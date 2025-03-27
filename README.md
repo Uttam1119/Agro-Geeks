@@ -4,26 +4,6 @@
 
 #### The applications supports CURD operation for products uploaded by farmers , and it is completely dynamic website build with MySql database and PHP as backend. 
 
-### Starter Images
-
-
-<div align= "center"> 
-<img src = "./Demo_Images/1.png" width = 400 height = 250 align = center> <br> <hr> <br>
-
-<img src = "./Demo_Images/2.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
-
-<img src = "./Demo_Images/3.png" width = 400 height = 250> <p>Products </p> <hr>
-
-<img src = "./Demo_Images/4.png" width = 400 height = 250> <p> Categorical and Location Wise Search</p> <br> 
-
-</div>
-
-<div align= "center">  
-  
-## <a href = "https://youtu.be/f0YMvE3muIc" > Click Here </a> To Watch Demo Video
-
-</div>
-
 ### Technology Stack 
 * HTML
 * CSS
